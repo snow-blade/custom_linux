@@ -6,6 +6,7 @@ This is the implementation of the more command check [this](https://asciinema.or
 This is the implementation of the curl command. The curl command makes requests and downloads stuff over the internet. Check [this](https://asciinema.org/a/nqx2zxauPpK82EALEkHbaf671) asciinema for more info 
 ## 3.Ls
 This is the implementation of the 'ls' command, it's made with a very short python script that displays the files in the current directory and their autorizations.<br>  Check [this](https://asciinema.org/a/elHnZm306W6owx6mL8r0UiquL) asciinema for more info 
-
+# 4.Cat
+This is the implementation of the cat command, it outputs to the console the contents of one or many files
 
 ### Contributions are open, Thanks
