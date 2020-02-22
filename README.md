@@ -8,5 +8,6 @@ This is the implementation of the curl command. The curl command makes requests 
 This is the implementation of the 'ls' command, it's made with a very short python script that displays the files in the current directory and their autorizations.<br>  Check [this](https://asciinema.org/a/elHnZm306W6owx6mL8r0UiquL) asciinema for more info 
 # 4.Cat
 This is the implementation of the cat command, it outputs to the console the contents of one or many files
-
+# 5.grep
+This is a dumb grep that i made while following the rust "Book"'s tutorial, it made me learn plenty of things in rust and i hope to see and learn more
 ### Contributions are open, Thanks
